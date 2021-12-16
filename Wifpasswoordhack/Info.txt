@@ -1,0 +1,10 @@
+On commands prompt
+netsh wlen show profiles  $ on windows commands prompt it show all connected wifi profile 
+
+netsh wlan show profile TP-Link_CBFC $USED to show all information about networks
+netsh wlan show profile wifiName key=clear  $ it show all data about that wifi 
+
+python
+
+python Name.py  $ used to show allifo about wifi must enter in command 
+ 
